@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">
-    Hello, world! Eu sou o 
+    Hello, world! My name is 
     <a href="https://www.linkedin.com/in/1910-leonardo-souza/">Leonardo Souza 😃️</a>
   </h1>
 
