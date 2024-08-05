@@ -4,8 +4,9 @@
     <a href="https://www.linkedin.com/in/1910-leonardo-souza/">Leonardo Souza 😃️</a>
   </h1>
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IamLeonardoSouza&show_icons=true&theme=radical)
-
+  <div align="center">
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IamLeonardoSouza&show_icons=true&theme=radical)
+  </div>
 
   <div align="center" valign="top"><br>
     <img align="center" alt="Python" height="35" width="35" src="https://www.vectorlogo.zone/logos/python/python-icon.svg">
