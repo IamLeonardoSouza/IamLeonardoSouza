@@ -4,7 +4,8 @@
     <a href="https://www.linkedin.com/in/1910-leonardo-souza/">Leonardo Souza 😃️</a>
   </h1>
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IamLeonardoSouza&show_icons=true&theme=radical)
+  ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=IamLeonardoSouza&show_icons=true&theme=dracula)
+  ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=IamLeonardoSouza&layout=compact&theme=dracula)
 
   <div align="center" valign="top"><br>
     <img align="center" alt="Python" height="35" width="35" src="https://www.vectorlogo.zone/logos/python/python-icon.svg">
@@ -19,8 +20,6 @@
     <a href="https://www.linkedin.com/in/1910-leonardo-souza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IamLeonardoSouza&langs_count=8)
-  
 </div>
 
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
