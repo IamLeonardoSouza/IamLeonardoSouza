@@ -4,9 +4,11 @@
     <a href="https://www.linkedin.com/in/1910-leonardo-souza/">Leonardo Souza 😃️</a>
   </h1>
 
-  ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=IamLeonardoSouza&show_icons=true&theme=dracula)
+  <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IamLeonardoSouza&show_icons=true&theme=dracula" alt="Estatísticas do GitHub" />
   <br>
-  ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=IamLeonardoSouza&layout=compact&theme=dracula)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamLeonardoSouza&layout=compact&theme=dracula" alt="Linguagens mais usadas" />
+</p>
 
   <div align="center" valign="top"><br>
     <img align="center" alt="Python" height="35" width="35" src="https://www.vectorlogo.zone/logos/python/python-icon.svg">
