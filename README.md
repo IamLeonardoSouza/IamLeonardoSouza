@@ -5,8 +5,6 @@
   </h1>
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IamLeonardoSouza&show_icons=true&theme=radical)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IamLeonardoSouza&theme=dracula&hide_border=false&&layout=compact)
-
 
   <div align="center" valign="top"><br>
     <img align="center" alt="Python" height="35" width="35" src="https://www.vectorlogo.zone/logos/python/python-icon.svg">
@@ -20,6 +18,8 @@
   <div align="center">
     <a href="https://www.linkedin.com/in/1910-leonardo-souza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizDionizio&langs_count=8)
   
 </div>
 
