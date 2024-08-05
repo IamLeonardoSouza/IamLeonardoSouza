@@ -4,7 +4,7 @@
     <a href="https://www.linkedin.com/in/1910-leonardo-souza/">Leonardo Souza 😃️</a>
   </h1>
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizDionizio&show_icons=true&theme=radical)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IamLeonardoSouza&show_icons=true&theme=radical)
 
 
   <div align="center" valign="top"><br>
