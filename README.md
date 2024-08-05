@@ -19,7 +19,7 @@
     <a href="https://www.linkedin.com/in/1910-leonardo-souza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizDionizio&langs_count=8)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IamLeonardoSouza&langs_count=8)
   
 </div>
 
