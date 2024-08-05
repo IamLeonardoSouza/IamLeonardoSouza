@@ -4,7 +4,12 @@
     <a href="https://www.linkedin.com/in/1910-leonardo-souza/">Leonardo Souza 😃️</a>
   </h1>
 
-  ![Commits](https://img.shields.io/badge/Total%20Commits-500-blue) <!-- Atualize o número de commits conforme necessário -->
+  <div align="center">
+    <a href="https://github.com/IamLeonardoSouza">
+      <img height="150em" src="https://github-readme-stats.vercel.app/api?username=IamLeonardoSouza&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+      <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamLeonardoSouza&theme=dracula&hide_border=false&&layout=compact"/>
+    </a>
+  </div>
 
 
   <div align="center" valign="top"><br>
