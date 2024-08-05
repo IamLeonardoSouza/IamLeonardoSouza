@@ -12,13 +12,14 @@
   </div>
 
   <div align="center" valign="top"><br>
-    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
-    <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-    <img align="center" alt="python" height="35" width="35" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg">
-    <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+    <img align="center" alt="Python" height="35" width="35" src="https://www.vectorlogo.zone/logos/python/python-icon.svg">
+    <img align="center" alt="Java" height="35" width="35" src="https://www.vectorlogo.zone/logos/java/java-icon.svg">
+    <img align="center" alt="Docker" height="35" width="35" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg">
+    <img align="center" alt="Linux" height="35" width="35" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg">
+    <img align="center" alt="Cloud" height="35" width="35" src="https://www.vectorlogo.zone/logos/cloud/cloud-icon.svg">
+    <img align="center" alt="MongoDB" height="35" width="35" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg">
+    <img align="center" alt="Apache Airflow" height="35" width="35" src="https://www.vectorlogo.zone/logos/apache_airflow/apache_airflow-icon.svg">
+    <img align="center" alt="Git" height="35" width="35" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
   </div><br>
 
   <div align="center">
