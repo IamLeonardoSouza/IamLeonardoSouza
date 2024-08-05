@@ -5,6 +5,7 @@
   </h1>
 
   ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=IamLeonardoSouza&show_icons=true&theme=dracula)
+  <br>
   ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=IamLeonardoSouza&layout=compact&theme=dracula)
 
   <div align="center" valign="top"><br>
