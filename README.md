@@ -20,6 +20,8 @@
     <img align="center" alt="Cloud" height="35" width="35" src="https://www.vectorlogo.zone/logos/cloudops/cloudops-ar21.svg">
     <img align="center" alt="JS" height="35" width="35" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg">
     <img align="center" alt="Kubernetes" height="35" width="35" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg">
+    <img align="center" alt="Postman" height="35" width="35" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
+    
     
   </div><br>
 
