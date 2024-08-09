@@ -17,6 +17,8 @@
     <img align="center" alt="Linux" height="35" width="35" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg">
     <img align="center" alt="MongoDB" height="35" width="35" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg">
     <img align="center" alt="Git" height="35" width="35" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
+    <img align="center" alt="Cloud" height="35" width="35" src="https://www.vectorlogo.zone/logos/cloudops/cloudops-ar21.svg">
+    
   </div><br>
 
   <div align="center">
