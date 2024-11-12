@@ -5,9 +5,9 @@
   </h1>
 
   <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IamLeonardoSouza&show_icons=true&theme=dracula" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=IamLeonardoSouza&show_icons=true&theme=dracula" alt="GitHub Stats" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamLeonardoSouza&layout=compact&theme=dracula" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamLeonardoSouza&layout=compact&theme=dracula" alt="Most used languages" />
 </p>
 
   <div align="center" valign="top"><br>
